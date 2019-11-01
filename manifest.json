@@ -1,0 +1,16 @@
+{
+    "name": "Homie",
+    "short_name": "Homie",
+    "description": "Gambar Anjing dan Kucing",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#c62828",
+    "theme_color": "#c62828",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
