@@ -45,7 +45,7 @@ function getArticles() {
           document.getElementById("articles").innerHTML = articlesHTML;
         })
       }
-    })
+    });
   }
   fetch(base_url + "articles")
     .then(status)
