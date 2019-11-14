@@ -1,11 +1,11 @@
 {
-    "name": "Homie",
-    "short_name": "Homie",
-    "description": "Gambar Anjing dan Kucing",
+    "name": "My First PWA",
+    "short_name": "My PWA",
+    "description": "Aplikasi PWA pertama saya",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#c62828",
-    "theme_color": "#c62828",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
     "icons": [
         {
             "src": "icon.png",
