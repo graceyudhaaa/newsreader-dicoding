@@ -52,7 +52,7 @@ function getArticles() {
     .then(json)
     .then(function(data) {
       // Isi disembunyikan agar lebih ringkas
-  }
+  })
 }
 
 function getArticleById() {
